@@ -1,1 +1,1 @@
-# SplitTheMoney
+# LightSplit
